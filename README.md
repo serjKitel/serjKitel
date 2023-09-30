@@ -10,7 +10,7 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://raw.githubusercontent.com/serjKitel/serjKitel/main/assets/119780938/3cd22214-18ba-412a-a667-4a1ac031ada8.png)](https://www.linkedin.com/in/serjkit)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/serjkit)
 
 
 
