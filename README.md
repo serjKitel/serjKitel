@@ -2,7 +2,8 @@
 
 ### My personal projects:
 
-🌐 Momentum: https://serjkitel.github.io/Momentum/Momentum/  🌻 Plants: https://serjkitel.github.io/Plants/
+🌐 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
+🌻 Plants: https://serjkitel.github.io/Plants/
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
