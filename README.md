@@ -12,6 +12,8 @@
 
 [![linkedIn](https://svgshare.com/i/y5k.svg)](https://www.linkedin.com/in/serjkit)
 
+### 🛠 Tech Stack
+
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
