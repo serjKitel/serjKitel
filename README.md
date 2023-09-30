@@ -5,7 +5,8 @@
 🌐 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
 🌻 Plants: https://serjkitel.github.io/Plants/  
 📜 My CV: https://serjkitel.github.io/rsschool-cv/  
-🐱‍👓 cssBayan: https://serjkitel.github.io/cssBayan/cssBayan/index.html
+🐱‍👓 cssBayan: https://serjkitel.github.io/cssBayan/cssBayan/index.html  
+⌨ VirtualKeyboard: https://serjkitel.github.io/virtual-keyboard/
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
