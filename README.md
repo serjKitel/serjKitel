@@ -4,6 +4,7 @@
 
 🌐 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
 🌻 Plants: https://serjkitel.github.io/Plants/
+📜 My CV: https://serjkitel.github.io/rsschool-cv/
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
