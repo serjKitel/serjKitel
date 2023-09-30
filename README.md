@@ -2,7 +2,7 @@
 
 ### My personal projects:
 
-🔁 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
+📅 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
 🌻 Plants: https://serjkitel.github.io/Plants/  
 📜 My CV: https://serjkitel.github.io/rsschool-cv/  
 🐱‍👓 cssBayan: https://serjkitel.github.io/cssBayan/cssBayan/index.html  
