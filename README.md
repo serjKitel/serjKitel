@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/serjkit)
 
-![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/5bab5fff-01b7-441c-a109-07e182d63f31)
+[![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/5bab5fff-01b7-441c-a109-07e182d63f31)](https://www.linkedin.com/in/serjkit)
 
 
 
