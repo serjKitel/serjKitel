@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Sergei Kitel | Frontend Developer
 
-# My personal projects:
+## My personal projects:
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
