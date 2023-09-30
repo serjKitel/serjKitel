@@ -3,7 +3,7 @@
 ### My personal projects:
 
 📅 Momentum: https://serjkitel.github.io/Momentum/Momentum/  
-🌻 Plants: https://serjkitel.github.io/Plants/  
+🌻 Plants - Responsive website: https://serjkitel.github.io/Plants/  
 📜 My CV: https://serjkitel.github.io/rsschool-cv/  
 🐱‍👓 cssBayan: https://serjkitel.github.io/cssBayan/cssBayan/index.html  
 ⌨ Virtual Keyboard: https://serjkitel.github.io/virtual-keyboard/  
