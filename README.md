@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/serjkit)
 
-[![linkedIn]([https://svgshare.com/s/y5k1](https://svgshare.com/i/y5k.svg))](https://www.linkedin.com/in/serjkit)
+[![linkedIn](https://svgshare.com/s/y5k)](https://www.linkedin.com/in/serjkit)
 
 
 
