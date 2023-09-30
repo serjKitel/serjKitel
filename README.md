@@ -10,7 +10,7 @@
 
 ### 🌐 Socials
 
-[linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/559acab1-dd71-4353-befe-0a0600129096)
+![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/559acab1-dd71-4353-befe-0a0600129096)
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
