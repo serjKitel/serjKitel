@@ -10,7 +10,7 @@
 
 ### 🌐 Socials
 
-[![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/3cd22214-18ba-412a-a667-4a1ac031ada8)]
+[![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/3cd22214-18ba-412a-a667-4a1ac031ada8)](https://www.linkedin.com/in/serjkit)
 
 
 <!--
