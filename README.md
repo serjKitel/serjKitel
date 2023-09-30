@@ -10,12 +10,7 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/serjkit)
-
 [![linkedIn](https://svgshare.com/i/y5k.svg)](https://www.linkedin.com/in/serjkit)
-
-
-
 
 <!--
 **serjKitel/serjKitel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
