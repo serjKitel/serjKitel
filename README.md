@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Sergei Kitel | Frontend Developer
+# Hi there 👋, I’m Sergei Kitel | Frontend Developer
 
 ## My personal projects:
 
