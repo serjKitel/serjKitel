@@ -1,4 +1,4 @@
-![linkedIn](https://github.com/serjKitel/serjKitel/assets/119780938/5bab5fff-01b7-441c-a109-07e182d63f31)## Hi there 👋, I’m Sergei Kitel | Frontend Developer
+## Hi there 👋, I’m Sergei Kitel | Frontend Developer
 
 ### My personal projects:
 
