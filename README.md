@@ -6,7 +6,7 @@
 🌻 Plants: https://serjkitel.github.io/Plants/  
 📜 My CV: https://serjkitel.github.io/rsschool-cv/  
 🐱‍👓 cssBayan: https://serjkitel.github.io/cssBayan/cssBayan/index.html  
-⌨ VirtualKeyboard: https://serjkitel.github.io/virtual-keyboard/
+⌨ Virtual Keyboard: https://serjkitel.github.io/virtual-keyboard/
 
 ### 🌐 Socials
 
